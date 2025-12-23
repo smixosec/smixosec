@@ -13,6 +13,7 @@ Hi, I’m **SMIXOX** 👋
 <img src="https://tryhackme-badges.s3.amazonaws.com/Smixox.png" alt="Your Image Badge" />
 
 
+
 🎓 **IT Student** specialized in **Infrastructure Digitale – Systèmes & Réseaux**
 
 🔐 **Passionate about Cybersecurity**, **Linux systems**, and **Network Security**  
