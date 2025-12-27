@@ -1,17 +1,25 @@
 <p align="cener">
   <img src="https://komarev.com/ghpvc/?username=smixox&label=Profile%20views&color=0e75b6&style=flat" alt="smixox" />
 </p>
+👋 Hey there, 
 
-$ whoami  
+
+
+$ whoami
 SMIXOX
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/Smixox.png" alt="Your Image Badge" />
 
 
-**Infrastructure Digitale – Systèmes & Réseaux | Cybersecurity**
 
-I build, secure, and maintain modern IT infrastructures.  
-Focused on systems administration, networking, and security fundamentals.
+I specialize in fortifying digital infrastructure—from network defense to system hardening. My passion lies at the intersection of cybersecurity and infrastructure, where I transform vulnerabilities into strengths and challenges into learning opportunities.
+
+ Currently: Mastering network protocols and security frameworks through hands-on labs and CTF challenges.
+
+Always learning: Growing my skills in defensive security, automation, and infrastructure design.
+
+Mission: Building the foundation to become a Security Engineer who not only protects systems but architects resilient digital environments.
+
+
 
 ---
 
@@ -22,14 +30,6 @@ Focused on systems administration, networking, and security fundamentals.
 ![Bash](https://img.shields.io/badge/Scripting-Bash-informational?style=flat&logo=gnu-bash&color=4EAA25)
 ![Python](https://img.shields.io/badge/Scripting-Python-informational?style=flat&logo=python&color=3776AB)
 ![Git](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&color=F05032)
-
----
-
-**Areas of focus**
-- Network design, VLANs, routing & switching  
-- Linux & Windows Server administration  
-- Infrastructure hardening & security testing  
-- Automation with Bash & Python  
 
 ---
 
